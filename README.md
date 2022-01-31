@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, Devs 👋
+
+> Este é meu perfil público no Github. Espero que gostem dos projetos que disponibilizo e dos forks que trago pra vocês, como insentivo para a colaboração em projetos open Source.
+
+Este ano (2022) vou fazer um upgrade nestes repositórios e deixá-lo pronto para que todos os Devs que quiserem visitar e/ou colaborar sintam-se à vontade!
+Grato,
+Carlos A Santos
 
 <!--
 **carlosItDevelop/carlosItDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
