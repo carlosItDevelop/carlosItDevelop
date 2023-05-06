@@ -2,7 +2,7 @@
 
 > Este é meu perfil público no Github. Espero que gostem dos projetos que disponibilizo e dos forks que trago pra vocês, como insentivo para a colaboração em projetos open Source.
 
-Este ano (2022) vou fazer um upgrade nestes repositórios e deixá-lo pronto para que todos os Devs que quiserem visitar e/ou colaborar sintam-se à vontade!
+Este ano vou fazer um upgrade nestes repositórios e deixá-lo pronto para que todos os Devs que quiserem visitar e/ou colaborar sintam-se à vontade!
 Grato,
 Carlos A Santos
 
@@ -11,12 +11,11 @@ Carlos A Santos
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Cooperchip CPES Ltda
+- 🌱 I’m currently learning Fullstack Angular 15, Bootstrap 5 & NET 7 API: Project Demo and Tutorial (Fuji Nguyen)
+- 👯 I’m looking to collaborate on CursoAspNetCoreUdemy
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Asp.Net Core
+- 📫 How to reach me: https://cooperchip.com.br
+- ⚡ Fun fact: "Domino’s Customer Service: “We’re sorry to hear about this!” :) 
 -->
